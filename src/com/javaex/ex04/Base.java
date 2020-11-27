@@ -12,9 +12,8 @@ public class Base {
     	//코드작성
     	
     	this.service = status;
-    	    
+    	
     	//메소드를 불러옴
- 
     	if(status=="낮") {
     		this.day();
     	} else if(status=="밤") {
