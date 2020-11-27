@@ -8,4 +8,16 @@ public class Print {
 
     //메소드  3개 를 작성하세요
     
+    public void printer(boolean t) {
+    	System.out.println(t);
+    }
+    
+    public void printer(double val) {
+    	System.out.println(val);
+    }
+    
+    public void printer(String name) {
+    	System.out.println(name);
+    }
+    
 }
