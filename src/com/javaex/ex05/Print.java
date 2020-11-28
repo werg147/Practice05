@@ -6,7 +6,7 @@ public class Print {
         System.out.println(val);
     }
 
-    //메소드  3개 를 작성하세요
+    //메소드 3개를 작성하세요
     
     public void printer(boolean t) {
     	System.out.println(t);

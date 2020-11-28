@@ -31,8 +31,7 @@ public class Song {
 	public void ShowInfo() {
 		System.out.println("Song(" + artist + title + album + year + track + composer);
 	}
-	
-	
+		
 }
 
 

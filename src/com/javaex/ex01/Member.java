@@ -33,5 +33,4 @@ public class Member {
 		System.out.println("회원정보: " + name + "(" + id + "), " + point + "점");
 	}
 	
-	
 }

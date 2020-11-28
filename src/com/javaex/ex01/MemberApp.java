@@ -22,6 +22,7 @@ public class MemberApp {
 		m03.setId("lhr");
 		m03.setPoint(40000);
 		m03.showInfo();
+
 		
 	}
 
